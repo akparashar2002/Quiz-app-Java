@@ -10,7 +10,7 @@ body{
 }
 
 .landing-page{
-    background: white url(../quix-app/images/bg1.jpg) no-repeat scroll center;
+    background: white url(../images/bg1.jpg) no-repeat scroll center;
     height: 100vh;
     background-size: cover;
     color: white;
@@ -68,7 +68,7 @@ text-align: center;
 
 .main-nav{
     background-color: lightgrey;
-    text-align: center;
+    text-align:end;
     padding: 15px;
     box-shadow: 0 0 10px black;
     position: sticky;
@@ -90,6 +90,7 @@ text-align: center;
     color: white;
     border-radius: 30px;
 }
+
 
 
 
